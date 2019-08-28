@@ -190,7 +190,7 @@ For refining the model. I tweaked the following parameters of **RandomForestClas
 
 My features superset as following:
 
-  ![](pic10.png)
+  ![](pic10.png) 
 Figure 10 features superset
 
 Before tuning AUC score was 0.98. After tuning it rose to 0.99, a performance is grow little bit maybe the first parameter picked was good enough for this dataset.
